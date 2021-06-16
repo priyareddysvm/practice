@@ -1,0 +1,35 @@
+body{
+	background-color:lightgrey;
+}
+
+h3{
+	color: white ;
+	background-color: rgba(255, 99, 71, 0.5);
+
+}
+table, th, td {
+  border: 1px solid black;
+}
+table {
+  width: 100%;
+  
+}
+td{
+	vertical-align: middle;
+}
+.first{
+	background-color: rgba(255, 99, 71, 0.5);
+	color: black;
+	text-align:center;
+	border:5px outset rgb(250, 240, 230);
+}
+header{
+	 background-color: #666;
+  padding: 30px;
+  text-align: center;
+  font-size: 35px;
+  color: white;
+}
+nav{
+	text-align: center;
+}
